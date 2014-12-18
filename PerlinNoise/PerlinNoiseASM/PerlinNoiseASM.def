@@ -1,0 +1,3 @@
+LIBRARY "PerlinNoiseASM"
+EXPORTS
+Noise
